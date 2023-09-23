@@ -623,3 +623,72 @@ h4 {
          cursor: pointer;
      }
  }
+
+ @media (max-width: 700px) {
+
+
+     .box {
+         width: 380px;
+     }
+
+
+
+
+     .input label {
+
+         font-size: 18px;
+     }
+
+     .inputH label,
+     .inputW label {
+         font-size: 14px;
+     }
+
+
+     .input input,
+     .inputH input,
+     .inputW input {
+         font-size: 24px;
+     }
+
+
+     .modal-content {
+
+         width: 380px;
+     }
+
+
+
+ }
+
+
+ /* media query for less than 600 screen size */
+
+ @media only screen and (max-width: 600px) {
+     .row {
+         text-align: center;
+     }
+
+     .col-2,
+     .col-3,
+     .col-4 {
+         flex-basis: 100%;
+     }
+
+     .single-product .row {
+         text-align: left;
+     }
+
+     .single-product .col-2 {
+         padding: 20px 0;
+     }
+
+     .single-product h1 {
+         font-size: 26px;
+         line-height: 32px;
+     }
+
+     .cart-info p {
+         display: none;
+     }
+ }
