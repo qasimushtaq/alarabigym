@@ -497,3 +497,25 @@ h4 {
  .close:hover {
      color: #d41111;
  }
+
+ /*Brands CSS*/
+ .brands {
+     margin: 100px auto;
+ }
+
+ .col-5 {
+     width: 160px;
+ }
+
+ .col-5 img {
+     width: 100%;
+     cursor: pointer;
+     filter: grayscale(100%);
+ }
+
+ .col-5 img:hover {
+     width: 100%;
+     cursor: pointer;
+     filter: grayscale(0);
+ }
+ 
