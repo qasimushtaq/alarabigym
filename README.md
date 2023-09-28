@@ -77,7 +77,8 @@ From business perspective, there are two type of customers. The new gym members 
 the images are loading properly. 
 - The desktop version of the project has been working. 
 - The mobile version is working. 
-- The CSS has been validated by W3Schools Validator and no error was found. <p>
+- The CSS has been validated by W3Schools Validator and no error was found.
+<p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -88,14 +89,11 @@ the images are loading properly.
 ## Credits
 
 ### Content
-- The text for the pages has been taken from the business website of [L&M Property cleaning Services](https://lmcleaningservices.co.uk/)
-- The main image idea has been taken from Code institute Love Running Project. 
-- The contact us form code has been taken from [Codepen](https://codepen.io/codeconvey/pen/bGdYvw)
+- The images has been taken from different gyms and google images . 
+- BMI calculator has been taken from https://www.codewithrandom.com/2023/05/07/bmi-calculator-javascript-bmi-calculator-code-codewithrandom/
 - [W3Schools](w3schools.com) is used to get help for the project. 
 
 
-### Media
-- The photos used are taken from [Google Images](https://www.google.com/search?q=cleaning+service+images&biw=1536&bih=746&sxsrf=APwXEde9bapiLvNkMqHQew_EkPmYlBBRyg:1685216163676&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjDzbi2n5b_AhU7VaQEHeJQBmUQ_AUoAXoECAEQAw#imgrc=OxYVENRLDAL3TM)
 
 
 
