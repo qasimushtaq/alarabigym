@@ -80,7 +80,7 @@ From business perspective, there are two type of customers. The new gym members 
 
 ## Testing
 
-* The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional. And only home page is functional at the moment, the images are loading properly.
+* The project has been tested thoroughly to the best of my knowledge. The navbar has been functional. Only home page is functional at the moment, and the images are loading properly.
 * The desktop version of the project has been working.
 * The mobile version is working.
 * The CSS has been validated by W3Schools Validator and no error was found.
