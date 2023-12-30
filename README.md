@@ -1,12 +1,13 @@
 ## [Welcome to Alarabi Gym.](https://qasimushtaq.github.io/alarabigym/)
 
 This is a website I am developing for Alarabi Gyms.
-The focus of this website is to provide customers with information about the business and to develop an online presence for the business. 
-Currently, it is vital to stay connected with customers and is the key to securing the future 
+The focus of this website is to provide customers with information about the business and to develop an online presence for the business.
+Currently, it is vital to stay connected with customers and is the key to securing the future
 of the business and it is important to develop a positive online presense to retain existing customers and also to attract new customers. The website includes
 the following sections: Home Page (Description of business?).There is a BMI calcultor included in Home page where a user can calculate their BMI to see where they stand right now in terms of fitness. This project will be on-going and will be updated regularly and changes made to suit the needs and requirements of both the owner and the users.
 
 #### The Business Objectives
+
 1. To develop an online presence.
 2. Increase business awareness.
 3. Expand the target audience reach.
@@ -15,6 +16,7 @@ the following sections: Home Page (Description of business?).There is a BMI calc
 6. To develop online communication with our customer base.
 
 #### Customer Objectives
+
 1. To gain access to business information.
 2. To access business opening hours and contact details.
 3. To be able to get in touch with the business.
@@ -23,15 +25,17 @@ the following sections: Home Page (Description of business?).There is a BMI calc
 6. To be able to join online
 
 ##### Future goals
+
 * Ability to develop an online system for customers and B2B.
 * To develop a system so that customer join online and develop other pages of the website.
+* To Create further pages for a complete working site.
 
 ## UX
- 
-This website is for customers, to provide up to date, relevant and easily available information about the business and the services it provides.
-The objective of this project is to develop a user-friendly platform that both new and existing customers can use for a range of purposes which were identified through research, from the perspective of the business and user perspective. 
 
-From business perspective, there are two type of customers. The new gym members and current members who can see the information online. 
+This website is for customers, to provide up to date, relevant and easily available information about the business and the services it provides.
+The objective of this project is to develop a user-friendly platform that both new and existing customers can use for a range of purposes which were identified through research, from the perspective of the business and user perspective.
+
+From business perspective, there are two type of customers. The new gym members and current members who can see the information online.
 
 ### User Stories
 
@@ -49,35 +53,38 @@ From business perspective, there are two type of customers. The new gym members 
 
 * As a potenial user I would like to be able to join online.
 
-
 ## Features
- - General (navbar, logo, footer, social links)
- - Home Page ( list of services, and general description of the business)
- - BMI Calculator on Home Page
 
- ### Existing Features
+* General (navbar, logo, footer, social links)
+* Home Page ( list of services, and general description of the business)
+* BMI Calculator on Home Page
 
-- Header & footer
-- Home Page
-- BMI Calculator
+### Existing Features
+
+* Header & footer
+* Home Page
+* BMI Calculator
 
 ### Features Left to Implement
+
 - online system to join
-- Gym membership
-- Online portal for Members
+* Gym membership
+* Online portal for Members
 
 ## Technologies Used
+
 - To build this project, basic HTML has been used and CSS is used to style all the pages.
-- Javascript has been used for menu toggle and BMI calcultor.  
-- The project was first built in [replit](replit.com) and then later it is moved to [Code anywhere](app.codeanywhere.com) IDE     platform. 
-- The project has been then shared to github. 
+* Javascript has been used for menu toggle and BMI calcultor.  
+* The project was first built in [replit](replit.com) and then later it is moved to [Code anywhere](app.codeanywhere.com) IDE     platform.
+* The project has been then shared to github.
 
 ## Testing
-- The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional and pages are updated. 
-the images are loading properly. 
-- The desktop version of the project has been working. 
-- The mobile version is working. 
-- The CSS has been validated by W3Schools Validator and no error was found.
+
+* The project has been tested thoroughly to the best of my knowledge. All the navbar has been functional. And only home page is functional at the moment, the images are loading properly.
+* The desktop version of the project has been working.
+* The mobile version is working.
+* The CSS has been validated by W3Schools Validator and no error was found.
+
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -89,11 +96,7 @@ the images are loading properly.
 ## Credits
 
 ### Content
-- The images has been taken from different gyms and google images . 
-- BMI calculator has been taken from https://www.codewithrandom.com/2023/05/07/bmi-calculator-javascript-bmi-calculator-code-codewithrandom/
-- [W3Schools](w3schools.com) is used to get help for the project. 
 
-
-
-
-
+- The images has been taken from different gyms and google images .
+* BMI calculator has been taken from <https://www.codewithrandom.com/2023/05/07/bmi-calculator-javascript-bmi-calculator-code-codewithrandom/>
+* [W3Schools](w3schools.com) is used to get help for the project.
