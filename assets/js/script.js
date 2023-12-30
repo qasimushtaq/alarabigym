@@ -29,7 +29,12 @@ function calculate() {
         modal.style.display = "block";
         modalText.innerHTML = `All fields are required!`;
 
-    } else {
+    }else if (age.value<=0 || height.value<=0 || weight.value==0) {
+        modal.style.display = "block";
+        modalText.innerHTML= "Values cannot be 0 or Negative!";
+    }
+
+    else {
         countBmi();
     }
 
